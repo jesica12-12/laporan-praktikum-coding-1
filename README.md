@@ -34,7 +34,7 @@ Halaman `index.html` disusun secara berurutan, menggunakan *Heading* sesuai inst
 
 Anda dapat melihat hasil *deploy* halaman ini secara langsung melalui tautan berikut:
 
-[**KLIK DI SINI UNTUK MELIHAT HALAMAN WEB**](https://jesica12-12.github.io/laporan-praktikum-coding-1/)
+[**KLIK DI SINI UNTUK MELIHAT HALAMAN WEB**]([https://jesica12-12.github.io/laporan-praktikum-coding-1/](https://github.com/jesica12-12/laporan-praktikum-coding-1))
 
 ---
 
